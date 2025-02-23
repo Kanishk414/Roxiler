@@ -144,5 +144,5 @@ Access dashboard at: `http://localhost:8080`
 2. Update application.properties with your MySQL credentials.
 3. Verify port numbers match your configuration.
 
-```
+
 
