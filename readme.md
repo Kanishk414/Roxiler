@@ -1,5 +1,5 @@
 ```markdown
-# Assignment for Roxiler Pvt Ltd
+# College Task
 
 ## Features
 - Initialize database from external API
@@ -69,8 +69,8 @@ CREATE TABLE products (
 
 1. **Clone Repository**:
 ```bash
-git clone https://github.com/your-username/roxiler-product-analytics.git
-cd roxiler-product-analytics
+git clone https://github.com/Kanishk414/Roxiler.git
+cd Roxiler
 ```
 
 2. **Configure Database**:
@@ -140,9 +140,8 @@ Access dashboard at: `http://localhost:8080`
    ```
 
 ## Make Sure:
-1. Replace `your-username` in clone URL .
-2. Update application.properties with your MySQL credentials.
-3. Verify port numbers match your configuration.
+1. Update application.properties with your MySQL credentials.
+2. Verify port numbers match your configuration.
 
 
 
